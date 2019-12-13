@@ -13,6 +13,10 @@ html {
 
 body {
   font-family: 'Source Sans Pro';
+  background-color: #D3D3D3;
+}
+.bg-light {
+  background-color: #D3D3D3 !important;
 }
 
 .btn-xl {
@@ -124,7 +128,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #2b2f30;
+  background: 	#D3D3D3;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -202,7 +206,7 @@ h6 {
 }
 
 .service-icon {
-  background-color: #20292b;
+  background-color: #D3D3D3;
   color: #1D809F;
   height: 7rem;
   width: 7rem;
